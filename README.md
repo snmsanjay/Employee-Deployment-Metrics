@@ -3,7 +3,6 @@
 
 
 
-
 # Employee-Deployment-Metrics
 
 Summary of Findings
