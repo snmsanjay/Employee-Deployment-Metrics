@@ -1,5 +1,5 @@
 # Dashboard of employee deployment metrics 
-
+![employee](https://github.com/snmsanjay/Employee-Deployment-Metrics/assets/98099710/943a3862-b281-4201-98bf-8eec505058c2)
 
 
 
