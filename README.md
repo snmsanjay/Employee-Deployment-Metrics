@@ -13,13 +13,13 @@ The majority of employees work at the headquarters, with only a few working remo
 
 - The average tenure of terminated employees is approximately 7 years.
 
--The distribution of genders across departments is generally balanced, with more male employees overall.
+- The distribution of genders across departments is generally balanced, with more male employees overall.
 The Marketing department experiences the highest turnover rate, followed by the Training department. Conversely, the Research and Development, Support, and Legal departments have the lowest turnover rates.
 
--A significant number of employees hail from the state of Ohio.
--The company has seen a net increase in its employee count over the years.
+- A significant number of employees hail from the state of Ohio.
+- The company has seen a net increase in its employee count over the years.
 
--On average, employees in each department have a tenure of about 8 years, with the Legal and Auditing departments showing the highest average tenure, and the Services, Sales, and Marketing departments showing the lowest average tenure.
+- On average, employees in each department have a tenure of about 8 years, with the Legal and Auditing departments showing the highest average tenure, and the Services, Sales, and Marketing departments showing the lowest average tenure.
 
 
 
